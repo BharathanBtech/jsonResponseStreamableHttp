@@ -30,3 +30,9 @@ Steps to Run the Project
    - Select any tool from the list.
    - Provide the required inputs in the right-hand pane.
    - Click Run Tool to view the server's response.
+
+
+
+Reference: To view similar projects, go to the below url
+
+https://github.com/modelcontextprotocol/typescript-sdk/tree/main/src/examples/server
